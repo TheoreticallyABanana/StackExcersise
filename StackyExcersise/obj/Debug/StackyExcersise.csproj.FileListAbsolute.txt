@@ -1,0 +1,8 @@
+c:\users\j220788\documents\visual studio 2015\Projects\StackyExcersise\StackyExcersise\bin\Debug\StackyExcersise.exe.config
+c:\users\j220788\documents\visual studio 2015\Projects\StackyExcersise\StackyExcersise\obj\Debug\StackyExcersise.csprojResolveAssemblyReference.cache
+c:\users\j220788\documents\visual studio 2015\Projects\StackyExcersise\StackyExcersise\bin\Debug\StackyExcersise.exe
+c:\users\j220788\documents\visual studio 2015\Projects\StackyExcersise\StackyExcersise\bin\Debug\StackyExcersise.pdb
+c:\users\j220788\documents\visual studio 2015\Projects\StackyExcersise\StackyExcersise\bin\Debug\StackyMethods.dll
+c:\users\j220788\documents\visual studio 2015\Projects\StackyExcersise\StackyExcersise\bin\Debug\StackyMethods.pdb
+c:\users\j220788\documents\visual studio 2015\Projects\StackyExcersise\StackyExcersise\obj\Debug\StackyExcersise.exe
+c:\users\j220788\documents\visual studio 2015\Projects\StackyExcersise\StackyExcersise\obj\Debug\StackyExcersise.pdb

@@ -1,0 +1,4 @@
+c:\users\j220788\documents\visual studio 2015\Projects\StackyExcersise\StackyMethods\bin\Debug\StackyMethods.dll
+c:\users\j220788\documents\visual studio 2015\Projects\StackyExcersise\StackyMethods\bin\Debug\StackyMethods.pdb
+c:\users\j220788\documents\visual studio 2015\Projects\StackyExcersise\StackyMethods\obj\Debug\StackyMethods.dll
+c:\users\j220788\documents\visual studio 2015\Projects\StackyExcersise\StackyMethods\obj\Debug\StackyMethods.pdb
